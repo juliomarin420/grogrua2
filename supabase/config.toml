@@ -1,0 +1,28 @@
+project_id = "mvpszcgtstjoksndwrpu"
+
+[functions.calculate-price]
+verify_jwt = false
+
+[functions.webpay-init]
+verify_jwt = false
+
+[functions.webpay-confirm]
+verify_jwt = false
+
+[functions.webpay-create-transaction]
+verify_jwt = false
+
+[functions.webpay-callback]
+verify_jwt = false
+
+[functions.webpay-refund]
+verify_jwt = false
+
+[functions.cancel-request]
+verify_jwt = false
+
+[functions.n8n-webhook]
+verify_jwt = false
+
+[functions.dispatch-status]
+verify_jwt = false
